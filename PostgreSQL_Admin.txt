@@ -1,0 +1,9 @@
+Username: postgres
+
+Password: Postgresql_2021
+port: 5432
+
+edb PostgresSQL Database
+https://www.enterprisedb.com/postgresql-tutorial-resources-training?uuid=db55e32d-e9f0-4d7c-9aef-b17d01210704&campaignId=7012J000001Nc8mQAC
+Precompiled python libraries
+https://www.lfd.uci.edu/~gohlke/pythonlibs/
